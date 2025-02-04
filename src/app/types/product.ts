@@ -1,4 +1,4 @@
-export type Product = {
+/*export type Product = {
     description: ReactI18NextChildren | Iterable<ReactI18NextChildren>
     discountPercentage: ReactI18NextChildren | Iterable<ReactI18NextChildren>
     discountPercentage: any
@@ -15,4 +15,18 @@ export type Product = {
       type: 'discount' | 'new'
       value?: string
     }
-  }
+  }*/
+    export type Product = {
+      _id: string;
+      title: string;
+      price: number;
+      discountpercentage: number;
+      tags: string[];
+      productImage: {
+        asset: {
+          _ref: string;
+        };
+      };
+      description: string;
+      available: boolean;
+    };
