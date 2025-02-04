@@ -35,7 +35,7 @@ export default function BlogSection() {
                 Admin
               </span>
               <span>•</span>
-              <span>14 Oct 2022</span>
+              <span>15 Oct 2023</span>
               <span>•</span>
               <span className="flex items-center gap-1">
                 <svg
@@ -96,7 +96,7 @@ export default function BlogSection() {
                 Admin
               </span>
               <span>•</span>
-              <span>14 Oct 2022</span>
+              <span>15 Oct 2023</span>
               <span>•</span>
               <span className="flex items-center gap-1">
                 <svg
@@ -156,7 +156,7 @@ export default function BlogSection() {
                 Admin
               </span>
               <span>•</span>
-              <span>14 Oct 2022</span>
+              <span>15 Oct 2023</span>
               <span>•</span>
               <span className="flex items-center gap-1">
                 <svg
